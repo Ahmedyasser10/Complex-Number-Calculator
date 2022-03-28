@@ -1,13 +1,3 @@
-/*
- * Course: Structured Programming
- * instructor: Mohamed El-Ramly
- *Task: Group Task
- *Authors: Ahmed Yasser , Fatma Gad , Soha Ashraf
- *IDS: 20211010 , 20210285 , 20210589
- *Assignment 2
- *
- */
-
 #include <iostream>
 #include <string>
 #include <cctype>
